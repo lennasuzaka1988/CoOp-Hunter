@@ -1,1 +1,0 @@
-# coop-hunter-api
